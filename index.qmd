@@ -1,5 +1,4 @@
-
-::: {.column-screen}
+::: column-screen
 ![](Cover.jpg)
 :::
 
@@ -10,21 +9,71 @@ This manifesto, written by a systems engineer with over twenty-five years of exp
 # Inspirations & Key References
 
 ## BOOKS
-* [Democracy, Inc. – Managed Democracy and the Specter of Inverted Totalitarianism Sheldon S. Wolin (2017)](https://press.princeton.edu/books/paperback/9780691178486/democracy-incorporated)
-* [Audience of One – Donald Trump, Television, and the Fracturing of America James Poniewozik (2019)](https://wwnorton.com/books/9781631494420)
-* [The Predator State: How Conservatives Abandoned the Free Market and Why Liberals Should Too by James K. Galbraith (2008)](https://www.simonandschuster.com/books/The-Predator-State/James-K-Galbraith/9781416576211) 
-* [The Global Class War: How America’s Bipartisan Elite Lost Our Future and What It Will Take to Win It Back by Jeff Faux (2006)](https://www.epi.org/publication/books_global_class_war/)
-* [Bildung: Keep Growing by Lene Rachel Andersen (2020)](https://www.clubofrome.org/publication/bildung-keep-growing/)
-* [Japan: A Modern History by James L. McClain (2017)](https://wwnorton.com/books/9780393977202)
+
+-   [Democracy, Inc. -- Managed Democracy and the Specter of Inverted Totalitarianism Sheldon S. Wolin (2017)](https://press.princeton.edu/books/paperback/9780691178486/democracy-incorporated)
+-   [Audience of One -- Donald Trump, Television, and the Fracturing of America James Poniewozik (2019)](https://wwnorton.com/books/9781631494420)
+-   [The Predator State: How Conservatives Abandoned the Free Market and Why Liberals Should Too by James K. Galbraith (2008)](https://www.simonandschuster.com/books/The-Predator-State/James-K-Galbraith/9781416576211)
+-   [The Global Class War: How America's Bipartisan Elite Lost Our Future and What It Will Take to Win It Back by Jeff Faux (2006)](https://www.epi.org/publication/books_global_class_war/)
+-   [Bildung: Keep Growing by Lene Rachel Andersen (2020)](https://www.clubofrome.org/publication/bildung-keep-growing/)
+-   [Japan: A Modern History by James L. McClain (2017)](https://wwnorton.com/books/9780393977202)
 
 ## VIDEOS & PODCASTS
 
-#### Larry Lessig Ted Talk: Our democracy no longer represents the people. Here’s how we fix it. (October 20, 2015)
+#### Larry Lessig Ted Talk: Our democracy no longer represents the people. Here's how we fix it. (October 20, 2015)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PJy8vTu66tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJy8vTu66tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-#### Larry Lessig Ted Talk: How the Net destroyed democracy (August 10, 2017) 
+</iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rHTBQCpNm5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Larry Lessig Ted Talk: How the Net destroyed democracy (August 10, 2017)
 
-#### Dan Carlin: Common Sense 319 – A Recipe for Caesar (March, 31, 2020) <https://www.dancarlin.com/product/common-sense-319-a-recipe-for-caesar/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHTBQCpNm5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+#### Dan Carlin: Common Sense 319 -- A Recipe for Caesar (March, 31, 2020) <https://www.dancarlin.com/product/common-sense-319-a-recipe-for-caesar/>
+
+## ARTICLES
+
+John Molinaro & Solveig Spjeldnes: *The Electoral College and the Rural-Urban Divide* (Aspen Institute, February 1, 2021) <https://www.aspeninstitute.org/blog-posts/the-electoral-college-and-the-rural-urban-divide/>
+
+Kurt Andersen: *How America Lost Its Mind* (The Atlantic, September, 2017) <https://www.theatlantic.com/magazine/archive/2017/09/how-america-lost-its-mind/534231/>
+
+Jonathan Haidt: *WHY THE PAST 10 YEARS OF AMERICAN LIFE HAVE BEEN UNIQUELY STUPID* (The Atlantic, April 11, 2022) <https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/>
+
+Paul Rosenberg: *A terrifying new theory: Fake news and conspiracy theories as an evolutionary strategy* (salon.com, August 8, 2021) <https://www.salon.com/2021/08/08/a-terrifying-new-theory-fake-news-and-conspiracy-theories-as-an-evolutionary-strategy/>
+
+C Thi Nguyen: *Escape the echo chamber* (aeon, April 9, 2018) <https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult>
+
+Peter Shanosky: *America Has Become A Three-Caste, Medieval Economy* (medium.com, February 17, 2022) <https://marker.medium.com/america-has-become-a-three-caste-medieval-economy-f82a380d06bb>
+
+Samuel Earle: *The Timeline We're On Is Even Darker Than 'The Matrix' Envisioned* (New York Times, December 22, 2021) <https://www.nytimes.com/2021/12/22/opinion/the-matrix-resurrections-internet-dystopia.html>
+
+James Poniewozik: *The Real Donald Trump Is a Character on TV* (New Your Times, September 6, 2019) <https://www.nytimes.com/2019/09/06/opinion/sunday/trump-reality-tv.html?smid=nytcore-ios-share>
+
+David Wallace-Wells: ***The Uninhabitable Earth*** -- *Famine, economic collapse, a sun that cooks us: What climate change could wreak -- sooner than you think* (New York Magazine, July 10, 2017 -- updated) <https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html>
+
+Alex Steffen: *Predatory Delay and the Rights of Future Generations* (medium.com, April 29, 2016)<https://medium.com/@AlexSteffen/predatory-delay-and-the-rights-of-future-generations-69b06094a16>
+
+Alex Steffen: *The Apocalypse Makes Us Dumb* (alexsteffen.com, May 11, 2015) <https://www.alexsteffen.com/apocalypse_makes_us_dumb>
+
+Judith D. Schwartz: *Soil as Carbon Storehouse: New Weapon in Climate Fight?* (Yale Environment 360, March 4, 2014) <https://e360.yale.edu/features/soil_as_carbon_storehouse_new_weapon_in_climate_fight>
+
+Moises Velasquez-Manoff: *Can Dirt Save the Earth* (New York Times -- Magazine, April 18, 2018) <https://www.nytimes.com/2018/04/18/magazine/dirt-save-earth-carbon-farming-climate-change.html>
+
+Damien Cave: *Can a Carbon-Emitting Iron Ore Tycoon Save the Planet?* (New Your Times, October 16, 2021) <https://www.nytimes.com/2021/10/16/business/energy-environment/green-energy-fortescue-andrew-forrest.html>
+
+Christopher Ketcham: *The Fallacy of Endless Economic Growth* (Pacific Standard, September 22, 2018) <https://psmag.com/magazine/fallacy-of-endless-growth>
+
+Charles Hugh Smith: *Welcome to Neocolonialism, Exploited Peasants!* (oftwominds.com, October 21, 2016) <https://www.oftwominds.com/blogoct16/neocolonialism10-16.html>
+
+Richard A. Werner: *Shifting from Central Planning to a Decentralised Economy: Do we Need Central Banks?* (Paper presented at the 14^th^ Rhodes Forum: Dialogue of Civilisations research Institute,
+Panel 2: Economic Alternatives when Conventional Models Fail, Rhodos, Greece, 1 October 2016) <https://professorwerner.org/category/articles-essays/>
+
+Tim Purcell: *Primer: The Eurodollar Market* (Lykeion, February 17, 2021) <https://www.thelykeion.com/primer-the-eurodollar-market/>
+
+William H. Janeway: *Venture capital didn't build that* (Los Angeles Times, December 27, 2012) <https://www.latimes.com/opinion/la-xpm-2012-dec-27-la-oe-janeway-innovation-govt-investment-20121227-story.html>
+
+David Brooks: *Leading With Two Minds* (New York Times, May 6, 2010) <https://www.nytimes.com/2010/05/07/opinion/07brooks.html>
+
+
